@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    background-color:#490037;
+    font-size: 20px;
+    color: white;
+    word-spacing: 5px;
+}
+.Para1,.Para2,.Para3,.Para4{
+    height:700px;
+    position:relative;
+    opacity:0.80;
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+.Para1{
+    background-image:url(https://www.izkiz.net/wp-content/uploads/2017/01/DSC_7356.jpg);
+}
+.Para2{
+    background-image:url(http://4.bp.blogspot.com/-R7bse58qrGU/VWgMACX7paI/AAAAAAAACaw/8G1REyygfzo/s1600/6927989-beautiful-paris-night-wallpaper.jpg);
+}
+.Para3{
+    background-image:url(https://media.cntraveler.com/photos/5a66128685a8fb68c669b73a/master/w_3432,h_2574,c_limit/Gstaad-GettyImages-140339055.jpg);
+}
+.Para4{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/6/65/Toronto_Skyline_Summer_2020.jpg);    
+}
+#S1,#S2,#S3,#S4{
+    text-align:center;
+    padding:40px 50px;
+    background-color:#282e34;
+    color:#ddd;
+    line-height: 25px;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+.H1,.H2,.H3,.H4{
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align:center;
+    color:black;
+    font-size:35px;
+    letter-spacing:8px;
+    text-transform:uppercase;
+}
